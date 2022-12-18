@@ -39,6 +39,7 @@ function remove() {
   // if (begin === "N") {
   //   while (request === "quit") {
   //   console.log("Alright");
+// Tried it out but leads to a bug
   //
   //   }
   // }
